@@ -1,4 +1,4 @@
-# Sistema de cadastro de jogos
+# Sistema de cadastro de jogos - Usado para Aprender Git
 
 > Status do projeto: Em desenvovimento
 
